@@ -46,26 +46,40 @@ const questions = [
         name: "license",
         message: "Choose a license for your project",
         choices: ["Apache license 2.0", "GNU GPLv3", "MIT", "Mozilla Public License 2.0"],
+        default: "MIT",
     },
     {
         type: "input",
         name: "username",
         message: "Please enter your github username.",
+        default: "user-github",
     },
     {
         type: "input",
         name: "email",
         message: "Please enter your email address.",
+        default: "user@gmail.com"
     },
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) { }
+// function writeToFile(fileName, data) {
+
+
+// }
+
+inquirer.prompt(questions)
+    .then((data) => {
+        const fileName = `${data.title.toLowerCase().split(' ').join('-')}.md`;
+
+        fs.writeFile(fileName, generateMarkdown(data), (err) =>
+            err ? console.log(err) : console.log("success!")
+        );
+    });
 
 // TODO: Create a function to initialize app
-function init() { }
+// function init() { }
 
 // Function call to initialize app
-init();
+// init();
 
-inquirer.prompt(questions);
