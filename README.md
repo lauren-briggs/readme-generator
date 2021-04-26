@@ -18,7 +18,9 @@ node index.js
 
 The readme file created in the following video can be found [here](my-readme-generator.md)
 
-![User demonstration (https://drive.google.com/file/d/1EqdweIbz8-094r9pxDCGLyoA5RPwl4hl/view)](https://drive.google.com/file/d/1EqdweIbz8-094r9pxDCGLyoA5RPwl4hl/view)
+![User demonstration link](https://drive.google.com/file/d/1EqdweIbz8-094r9pxDCGLyoA5RPwl4hl/view)
+
+<iframe src="https://drive.google.com/file/d/1EqdweIbz8-094r9pxDCGLyoA5RPwl4hl/preview" width="640" height="480"></iframe>
 
 ## User Story
 
