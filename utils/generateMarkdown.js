@@ -34,10 +34,10 @@ function generateMarkdown(data) {
 ${data.description}
 
   ##Table of Contents
-  - [Installation Instructions](#Installation Instructions)
-  - [Usage Information](#Usage Information)
-  - [Contribution Guidelines](#Contribution Guidelines)
-  - [Testing Instructions](#Testing Instructions)
+  - [Installation Instructions](#Installation)
+  - [Usage Information](#Usage)
+  - [Contribution Guidelines](#Contribution)
+  - [Testing Instructions](#Testing)
   - [Questions](#Questions)
 
   ### Installation Instructions
