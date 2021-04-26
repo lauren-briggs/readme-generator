@@ -1,15 +1,15 @@
-# test table of contents
+# My New Project
 
   ![NPM](https://img.shields.io/npm/l/inquirer)
 
   ## Description
-test table of contents
+This is my new project.
 
-  ##Table of Contents
-  - [Installation Instructions](#Installation)
-  - [Usage Information](#Usage)
-  - [Contribution Guidelines](#Contribution)
-  - [Testing Instructions](#Testing)
+  ## Table of Contents
+  - [Installation Instructions](#Installation-Instructions)
+  - [Usage Information](#Usage-Information)
+  - [Contribution Guidelines](#-Contribution-Guidelines)
+  - [Testing Instructions](#-Testing-Instructions)
   - [Questions](#Questions)
 
   ### Installation Instructions
