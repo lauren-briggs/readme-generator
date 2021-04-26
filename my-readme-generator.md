@@ -3,7 +3,7 @@
   ![NPM](https://img.shields.io/npm/l/inquirer)
 
   ## Description
-An app that dynamically generates a readme file
+An application that dynamically generates a readme file
 
   ## Table of Contents
   - [Installation Instructions](#Installation-Instructions)
@@ -19,10 +19,10 @@ IDK!!
 Just use it
 
   ### Contribution Guidelines
-Plz contribute 
+Please contribute xx
 
   ### Testing Instructions
-Figure it out
+figure it out
 
   ### Questions
   If you have any further questions please feel free to reach out:
