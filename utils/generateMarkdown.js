@@ -36,8 +36,8 @@ ${data.description}
   ## Table of Contents
   - [Installation Instructions](#Installation-Instructions)
   - [Usage Information](#Usage-Information)
-  - [Contribution Guidelines](#-Contribution-Guidelines)
-  - [Testing Instructions](#-Testing-Instructions)
+  - [Contribution Guidelines](#Contribution-Guidelines)
+  - [Testing Instructions](#Testing-Instructions)
   - [Questions](#Questions)
 
   ### Installation Instructions
@@ -53,7 +53,8 @@ ${data.contribution}
 ${data.testing}
 
   ### Questions
-[github.com / ${data.username}](github.com / ${data.username})
+  If you have any further questions please feel free to reach out:
+[github.com/${data.username}](github.com/${data.username})
 ${data.email}
 `;
 }

@@ -8,8 +8,8 @@ This is my new project.
   ## Table of Contents
   - [Installation Instructions](#Installation-Instructions)
   - [Usage Information](#Usage-Information)
-  - [Contribution Guidelines](#-Contribution-Guidelines)
-  - [Testing Instructions](#-Testing-Instructions)
+  - [Contribution Guidelines](#Contribution-Guidelines)
+  - [Testing Instructions](#Testing-Instructions)
   - [Questions](#Questions)
 
   ### Installation Instructions
@@ -25,5 +25,6 @@ Contributors welcome
 No testing instructions required.
 
   ### Questions
-[github.com / user-github](github.com / user-github)
+  If you have any further questions please feel free to reach out:
+[github.com/user-github](github.com/user-github)
 user@gmail.com
