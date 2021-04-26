@@ -42,7 +42,7 @@ const questions = [
         default: "No testing instructions required."
     },
     {
-        type: "checkbox",
+        type: "list",
         name: "license",
         message: "Choose a license for your project",
         choices: ["Apache license 2.0", "GNU GPLv3", "MIT", "Mozilla Public License 2.0"],
@@ -64,7 +64,6 @@ const questions = [
 
 // TODO: Create a function to write README file
 // function writeToFile(fileName, data) {
-
 
 // }
 

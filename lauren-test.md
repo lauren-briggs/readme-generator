@@ -1,9 +1,9 @@
-# My New Project
+# Lauren Test
 
-  ![NPM](https://img.shields.io/npm/l/inquirer)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
-This is my new project.
+Test test teat
 
   ## Installation Instructions
 No installation instructions required.
