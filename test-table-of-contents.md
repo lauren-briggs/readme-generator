@@ -1,15 +1,15 @@
-# Test TOC
+# test table of contents
 
   ![NPM](https://img.shields.io/npm/l/inquirer)
 
   ## Description
-Testing TOC
+test table of contents
 
   ##Table of Contents
-  - [Installation Instructions](#Installation Instructions)
-  - [Usage Information](#Usage Information)
-  - [Contribution Guidelines](#Contribution Guidelines)
-  - [Testing Instructions](#Testing Instructions)
+  - [Installation Instructions](#Installation)
+  - [Usage Information](#Usage)
+  - [Contribution Guidelines](#Contribution)
+  - [Testing Instructions](#Testing)
   - [Questions](#Questions)
 
   ### Installation Instructions
