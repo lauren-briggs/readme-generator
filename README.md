@@ -16,7 +16,9 @@ node index.js
 
 ## Functionality Demo
 
-The readme file created in the following video can be found [here](my-readme-generator.md)
+The readme file created in the following video can be found [here](my-readme-generator.md).
+
+Click on the screenshot below to see the video.
 
 [![User demonstration link](readme-generator-demo.png)](https://drive.google.com/file/d/1EqdweIbz8-094r9pxDCGLyoA5RPwl4hl/view)
 
