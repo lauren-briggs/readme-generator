@@ -1,9 +1,9 @@
-# Lauren Test
+# Test test test
 
   ![NPM](https://img.shields.io/npm/l/inquirer)
 
   ## Description
-Testing readme generator
+This is my new project.
 
   ## Table of Contents
   - [Installation Instructions](#Installation-Instructions)
@@ -27,6 +27,6 @@ No testing instructions required.
   ### Questions
   If you have any further questions please feel free to reach out:
 
-[github.com/lauren-briggs](github.com/lauren-briggs)
+[https://github.com/user-github](https://github.com/user-github)
 
-laurenbriggs41@gmail.com
+user@gmail.com

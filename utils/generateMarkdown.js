@@ -47,7 +47,7 @@ ${data.testing}
   ### Questions
   If you have any further questions please feel free to reach out:
 
-[github.com/${data.username}](github.com/${data.username})
+[https://github.com/${data.username}](https://github.com/${data.username})
 
 ${data.email}
 `;
