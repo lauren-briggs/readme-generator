@@ -33,19 +33,26 @@ function generateMarkdown(data) {
   ## Description
 ${data.description}
 
-  ## Installation Instructions
+  ##Table of Contents
+  - [Installation Instructions](#Installation Instructions)
+  - [Usage Information](#Usage Information)
+  - [Contribution Guidelines](#Contribution Guidelines)
+  - [Testing Instructions](#Testing Instructions)
+  - [Questions](#Questions)
+
+  ### Installation Instructions
 ${data.installation}
 
-  ## Usage Information
+  ### Usage Information
 ${data.usage}
 
-  ## Contribution Guidelines
+  ### Contribution Guidelines
 ${data.contribution}
 
-  ## Testing Instructions
+  ### Testing Instructions
 ${data.testing}
 
-  ## Questions
+  ### Questions
 [github.com / ${data.username}](github.com / ${data.username})
 ${data.email}
 `;
