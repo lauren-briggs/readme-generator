@@ -2,7 +2,7 @@
 A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 # 09 Node.js Homework: Professional README Generator
 
-## Your Task
+## The Project
 
 Quickly and easily create a README file by using this command-line application to generate one.
 
@@ -13,6 +13,11 @@ The application will be invoked by using the following command:
 ```bash
 node index.js
 ```
+
+## Functionality Demo
+
+The readme file created in the following video can be found [here](my-readme-generator.md)
+![User demonstration](my-readme-generator-video.mov)
 
 ## User Story
 
